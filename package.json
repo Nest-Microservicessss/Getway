@@ -28,7 +28,9 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.3",
     "dotenv": "^17.2.3",
+    "envs": "^0.1.6",
     "joi": "^18.0.2",
+    "nats": "^2.29.3",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "transformer": "^1.2.8"
